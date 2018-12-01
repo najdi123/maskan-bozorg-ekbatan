@@ -1,0 +1,115 @@
+@font-face {
+    font-family: one;
+    src: url(../fonts/irsansb.ttf);
+
+}
+
+@font-face {
+    font-family: two;
+    src: url(../fonts/irsans.ttf);
+
+}
+
+
+
+.jumbo-wrapper {
+    /*background-color: #61dafb;*/
+    background-image:  url('../images/realestate.jpg');
+
+    height: 600px;
+    position: absolute;
+    width: 800px;
+
+    text-align: center;
+}
+
+/*.wrapper {*/
+    /*width: 100%;*/
+/*}*/
+.brand {
+    position: relative;
+    margin-top: 100px;
+}
+a.nav-link {
+    color: white !important;
+
+    font: 20px "two";
+    margin: 0 25px 0 25px;
+
+}
+.navbar {
+    position: relative;
+    box-shadow: none !important;
+    /*top: 50px;*/
+
+}
+.navbar-toggler-icon {
+    font: 35px "one";
+    color: white;
+    padding-right: 10px!important;
+
+}
+.navbar-toggler {
+    background-color: #282c34!important;
+    opacity: .9;
+    padding-right: 10px!important;
+}
+.navbar-collapse {
+    background-color: #282c34;
+    /*opacity: 0.7;*/
+    /*margin-top: 5em;*/
+
+}
+.navbar-expand-sm {
+    /*background-color: #282c34;*/
+    /*opacity: 1.0;*/
+    /*margin-top: 5em;*/
+    color: white !important;
+    font-size: 30px;
+    margin: 0 25px 0 25px;
+}
+.nav-item:hover {
+    background-color: deeppink;
+
+}
+
+.welcome {
+    font: 25px "one";
+    color: orangered;
+    padding: 10px;
+    margin-top: 30px;
+}
+.name {
+    color: white;
+    background-color: orange;
+    display:inline-block;
+    font: 27px "one";
+    padding: 10px;
+    margin-bottom: 50px;
+
+}
+.desc {
+    font: 20px "two";
+    color: white;
+    background-color: orangered;
+    display:inline-block;
+    padding: 5px 10px 5px 10px;
+    margin-bottom: 10px;
+}
+
+.bottomM {
+    margin-bottom: 40px;
+}
+
+.desc2 {
+
+    color: white;
+    background-color: blue;
+    display:inline-block;
+    padding: 5px 10px 5px 10px;
+
+    font: 25px "one";
+}
+
+
+
