@@ -9,9 +9,9 @@ class FooterPage extends React.Component {
                 <Container fluid className="text-center text-md-left">
                     <Row>
                         <Col md="6">
-                            <h3 className="title footerT">برای اطلاع از قیمت روز تماس بگیرید</h3>
+                            <h3 className="title footerT">جنب شهرک اکباتان، خ بیمه 4، کوچه عظیمی پلاک 25</h3>
                             <h3 className="footerT">
-                                09121160743 - 09125256158
+                                44645060 - 09122198577
                             </h3>
                         </Col>
                         <Col md="6">

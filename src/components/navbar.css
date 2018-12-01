@@ -18,14 +18,14 @@
 
     height: 600px;
     position: absolute;
-    width: 800px;
+    width: 100%;
 
     text-align: center;
 }
 
-/*.wrapper {*/
-    /*width: 100%;*/
-/*}*/
+.wrapper {
+    width: 100%;
+}
 .brand {
     position: relative;
     margin-top: 100px;
