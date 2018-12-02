@@ -9,7 +9,7 @@ class FooterPage extends React.Component {
                 <Container fluid className="text-center text-md-left">
                     <Row>
                         <Col md="6">
-                            <h3 className="title footerT">جنب شهرک اکباتان، خ بیمه 4، کوچه عظیمی پلاک 25</h3>
+                            <h3 className="title footerC">جنب شهرک اکباتان، خ بیمه 4، کوچه عظیمی پلاک 25</h3>
                             <h3 className="footerT">
                                 44645060 - 09122198577
                             </h3>
@@ -36,7 +36,7 @@ class FooterPage extends React.Component {
                 <div className="footer-copyright text-center py-3">
                     <Container fluid>
                         &copy; {new Date().getFullYear()} Copyright: {" "}
-                        Ebrahimi Recycling
+                        Maskan Bozorg Ekbatan
                     </Container>
                 </div>
             </Footer>

@@ -18,12 +18,12 @@ class Sidebar extends Component {
 
                     <br/>
 
-                    <h2 className="desc2">
-                        44645060
-                    </h2>
+                    {/*<h2 className="desc2">*/}
+                        {/*44645060*/}
+                    {/*</h2>*/}
                     <br/>
                     <h2 className="desc2 bottomM">
-
+                        44645060
                     </h2>
 
                 </div>

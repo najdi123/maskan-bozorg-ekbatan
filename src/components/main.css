@@ -130,6 +130,12 @@
     margin: auto;
     
 }
+.footerC {
+    color: white;
+    text-align: center;
+    font:   20px "two";
+    margin-bottom: 30px;
+}
 
 .footerT {
     color: white;

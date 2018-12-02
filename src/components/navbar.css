@@ -14,8 +14,8 @@
 
 .jumbo-wrapper {
     /*background-color: #61dafb;*/
-    background-image:  url('../images/realestate.jpg');
-
+    background-image:  url('../images/11.jpeg');
+    background-repeat: no-repeat;
     height: 600px;
     position: absolute;
     width: 100%;
